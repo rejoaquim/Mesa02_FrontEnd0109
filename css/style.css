@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.caixa1 {
+    height: 200px;
+    width: 200px;
+    background-color: lime;
+    padding: 50px;
+    display: inline-block;
+    position: fixed;
+
+}
+
+.caixa_meio {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+.caixa2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(76, 0, 255);
+    padding: 50px;
+    display: inline-block;
+    position: fixed;
+    right: 10px;
+
+
+}
+
+.caixa3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(32, 105, 25, 0.288);
+    padding: 50px;
+    position: fixed;
+    left: 43.5%;
+    bottom: 0;
+}
+
+body {
+    height: 1000px;
+}
